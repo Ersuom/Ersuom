@@ -1,4 +1,2 @@
-- 👋 Ben @Ersuom
-- 👀 Java,javascript ve python ile ilgileniyorum
-- 🌱 Endüstiriyel Otomasyon / Mekatronik Mühendisliği öğrencisiyim
-- 📫 Bana ulaşmak için: Ersuom#6206
+- Discord: Ersuom#0687
+- Ria Client: https://discord.gg/cvdYNtNcGa
