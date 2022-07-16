@@ -1,2 +1,2 @@
-- Discord: Ersuom#0687
-- Ria Client: https://discord.gg/cvdYNtNcGa
+- Discord: Ersuom#1881
+- New projects will soon...
